@@ -5,7 +5,6 @@ My grandfather, Curley Hines, started talking about his childhood(I don’t want
 So, he headed north to St.Louis, leaving his mother for better career opportunities and a better life. He told me about the civil rights movement and the fight for equality in America. One of the key figures in the civil rights movement was Martin Luther King Jr., whose speeches and quotes have become deeply embedded in American History.
 “The time is always right to do what is right.” ~ Martin Luther King Jr.
 
-![](Bubble Plot.png)
 Later my grandfather started telling me when times get hard, always do what is right and never give up. He actually said it a little differently by stressing the importance of integrity. He warned me that everyone faces obstacles in life, but each individual will have to be strong, deal with them the situation, and overcome. So, now I sit in my apartment in Austin, Texas, realizing he was right. I often wonder how different America might be if King did not stand up in Washington D.C., on August 28, 1963, and give the famous I HAVE A DREAM SPEECH. In this speech, King called for an end to all inequalities in America and talked about economic rights. So, Let’s explore this famous speech.
 
 ![](Speech_Barplot.png)
