@@ -1,4 +1,6 @@
 
+<h1>Exploratory Data Analysis on I HAVE A DREAM SPEECH</h1>
+
 ![](grandfather.png)
 
 Let’s rewind to the summer of 2000. I was eighteen at the time. This summer, my grandfather and I decided to take a road trip back to his hometown of Little Rock, Arkansas. First, we went to the gas station and filled up with gas goodies: chips, beef jerky, and a few bottles of pop. Although we have taken this trip before, this time was different.
